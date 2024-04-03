@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\kew\sql\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\243530944.index
+\test1\src
+D:\kew\sql\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3729126944.index
+\test1\src
